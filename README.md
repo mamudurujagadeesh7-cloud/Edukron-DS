@@ -12,4 +12,4 @@ Python Assignments
 
 5.Math_Module
 
-6.Function_1
+6.Functions_1
