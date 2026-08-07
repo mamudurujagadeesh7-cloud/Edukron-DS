@@ -12,4 +12,6 @@ Python Assignments
 
 5.Math_Module
 
-6.Functions_1
+6.Functions
+
+7.Lambda_Functions
