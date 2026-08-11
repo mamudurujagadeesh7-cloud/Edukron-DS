@@ -14,6 +14,4 @@ Python Assignments
 
 6.Functions
 
-7.Lambda_Functions
-
-8.NumPy 
+7.Lambda_Functions 
