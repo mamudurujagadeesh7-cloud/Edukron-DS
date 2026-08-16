@@ -10,10 +10,12 @@ Python Assignments
 
 4.Python_Control_Flow
 
-5.Math_Module
+5.Math_Module & Operators
 
 6.Functions
 
 7.Lambda_Functions 
 
-8.NumPy
+8.All_Functions
+
+9.NumPy
